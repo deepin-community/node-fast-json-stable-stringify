@@ -1,5 +1,13 @@
-template-repository (1.0-1) unstable; urgency=medium
+node-fast-json-stable-stringify (2.1.0-2) unstable; urgency=medium
 
-  * Initial release
+  * Team upload
+  * Add Breaks+Replaces node-json-stable-stringify < 1.0.2+repack1
+    (Closes: #1043519)
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Yadd <yadd@debian.org>  Sat, 12 Aug 2023 16:08:21 +0400
+
+node-fast-json-stable-stringify (2.1.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1041347)
+
+ -- Michael Ikwuegbu <michaelikwuegbu1@gmail.com>  Mon, 17 Jul 2023 15:25:29 +0100
